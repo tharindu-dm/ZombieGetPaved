@@ -1,0 +1,37 @@
+# This .gitignore file should be placed at the root of your Unity project directory
+
+# Unity generated
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+# VS/VS Code generated
+.vs/
+.vscode/
+
+# Builds
+*.apk
+*.aab
+*.unitypackage
+*.app
+
+# Crashlytics generated file
+crashlytics-build.properties
+
+# Packed Addressables
+/[Aa]ssets/[Aa]ddressable[Aa]ssets[Dd]ata/*/*.bin*
+
+# Temporary auto-generated Android Assets
+/[Aa]ssets/[Ss]treamingAssets/aa.meta
+/[Aa]ssets/[Ss]treamingAssets/aa/*
+
+# Add your custom exclusions here
+# For example:
+/Assets/IdiaSoftware/
+/Assets/Vehicle_Essentials/
+/Assets/SyntyStudios/
+/Assets/Supercyan Character Pack Zombie Sample/
